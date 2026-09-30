@@ -20,10 +20,8 @@ A Python implementation of a **Document Secret Sharing (DSS)** system built on *
 10. [Experimental Results](#-experimental-results)
 11. [Security Model & Limitations](#-security-model--limitations)
 12. [Future Work](#-future-work)
-13. [Citation](#-citation)
-14. [Authors](#-authors)
-15. [License](#-license)
-16. [References](#-references)
+13. [License](#-license)
+
 
 ---
 
@@ -341,52 +339,9 @@ Tests were run on DOCX, PPTX, PDF, and image files across multiple (k, n) config
 
 ---
 
-## 📝 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{chaturvedi2026dss,
-  title   = {A Secure Document Secret Sharing System using SHA-256-based Share Authentication},
-  author  = {Chaturvedi, Ratnesh and Jaggi, Muskaan and Mishra, Snigdha and Khanvilkar, Tanvi},
-  journal = {Grenze International Journal of Engineering and Technology},
-  year    = {2026},
-  month   = {January},
-  note    = {Grenze ID: 01.GIJET.12.1.17\_1}
-}
-```
-
----
-
-## 👥 Authors
-
-| Name | Affiliation |
-|---|---|
-| **Dr. Ratnesh Chaturvedi** | Associate Professor, Indore Institute of Science and Technology, Computer Science and Engineering, Indore, India |
-| **Muskaan Jaggi** | Mukesh Patel School of Technology Management and Engineering, NMIMS University, Mumbai, India |
-| **Snigdha Mishra** | Mukesh Patel School of Technology Management and Engineering, NMIMS University, Mumbai, India |
-| **Tanvi Khanvilkar** | Mukesh Patel School of Technology Management and Engineering, NMIMS University, Mumbai, India |
-
----
-
 ## 📜 License
 
 Add your preferred license here (e.g., MIT, Apache-2.0). The accompanying paper is © Grenze Scientific Society, 2026.
-
----
-
-## 📚 References
-
-1. A. Shamir, "How to share a secret," *Communications of the ACM*, 22(11), 612–613, 1979.
-2. G. R. Blakley, "Safeguarding cryptographic keys," *Proc. National Computer Conference*, vol. 48, pp. 313–317, 1979.
-3. W. Diffie and M. E. Hellman, "New directions in cryptography," *IEEE Trans. Information Theory*, 22(6), 644–654, 1976.
-4. M. Naor and A. Shamir, "Visual cryptography," *EUROCRYPT '94*, pp. 1–12, Springer, 1994.
-5. E. R. Verheul and H. C. A. van Tilborg, "Constructions and properties of k out of n visual secret sharing schemes," *Designs, Codes and Cryptography*, 11(2), 179–196, 1997.
-6. R. C. Merkle, "A digital signature based on a conventional encryption function," *CRYPTO '87*, pp. 369–378, Springer, 1987.
-7. G. J. Simmons, "A survey of information authentication," *Proc. IEEE*, 76(5), 603–620, 1988.
-8. Y. Zhang, C. Xu, X. Lin, and X. S. Shen, "Blockchain-based public integrity verification for cloud storage against procrastinating auditors," *IEEE Trans. Cloud Computing*, 9(3), 923–937, 2019.
-
-*(See the paper for the complete reference list.)*
 
 ---
 
