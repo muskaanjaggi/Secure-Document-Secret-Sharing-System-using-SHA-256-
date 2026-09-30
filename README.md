@@ -2,8 +2,6 @@
 
 A Python implementation of a **Document Secret Sharing (DSS)** system built on **Shamir's (k, n) Secret Sharing Scheme**, with **per-share SHA-256 authentication** and a **Tkinter GUI**. Any document (PDF, DOCX, PPTX, image, etc.) is split into `n` independent shares such that any `k` of them reconstruct the original file bit-for-bit, while fewer than `k` shares reveal no information about it.
 
-> Based on the paper: *"A Secure Document Secret Sharing System using SHA-256-based Share Authentication"* — Dr. Ratnesh Chaturvedi, Muskaan Jaggi, Snigdha Mishra, Tanvi Khanvilkar. *Grenze International Journal of Engineering and Technology*, January Issue (Grenze ID: 01.GIJET.12.1.17_1).
-
 ---
 
 ## 📑 Table of Contents
